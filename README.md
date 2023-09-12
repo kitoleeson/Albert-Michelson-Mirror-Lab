@@ -9,4 +9,4 @@ This is my simulation of the experiment that Albert Michelson used in 1879 to fi
 Some ways I would improve this in the future:
 1. Add sound effects
 2. Add ability to change the distance of path
-3. Find a better algorithm for when the particle hits a mirror so that errors where the particle hits the mirror no longer exist
+3. Find a better algorithm for when the particle hits more than one mirror at a time to eliminate bugs resulting in the particle teleporting inside the mirror.
