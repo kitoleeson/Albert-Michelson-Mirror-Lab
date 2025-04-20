@@ -50,7 +50,7 @@ When my high school physics teacher taught our class about how Michelson managed
 
 ## 🌐 Live Site
 
-I host this simulation on GitHub's free service at: https://kitoleeson.github.io/Albert-Michelson-Mirror-Lab/
+I host this simulation on GitHub's free GitHub-Pages service at: https://kitoleeson.github.io/Albert-Michelson-Mirror-Lab/
 
 ## 📖 License
 
