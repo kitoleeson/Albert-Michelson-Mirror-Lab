@@ -27,22 +27,11 @@ This sim is based on **Michelson’s method**, showcasing the physics and geomet
 Michelson’s setup involved reflecting light off a rotating mirror toward a distant fixed mirror and back. If the rotating mirror spun at the perfect speed, the returning beam would reflect of the rotating mirror again at the correct angle to shine into an observer. If the mirror spun too fast or too slow, the light would deflect of its intended path, and never reach the observer. That angular offset helped calculate how long the light took to travel, and thus its speed using the classical uniform motion formula, V = d / t. This sim recreates that idea with a visual particle system and interactive controls.
 > In Michelson's original experiment, he shot the light down an abandonded mine shaft between Mt. Wilson and Mt. San Antonio in California, USA. This distance was approximately 35km.
 
-## 🧪 Future Improvements
+## 🛠️ Tech Stack
 
-Some features I’d like to build on in the future:
-1. 🎵 Add sound effects for firing and hitting mirrors
-2. 📏 Adjustable path length to simulate longer or shorter distances
-3. 💥 Improve collision detection when a particle hits multiple mirrors simultaneously (currently may result in jittery or teleporting behavior)
-
-## 🚀 Tech Stack
-
-- 🎨 **p5.js** — for canvas rendering and interactive visual elements
-- 💻 JavaScript — for simulation logic and DOM interaction
-- 🌐 HTML + CSS — for layout and styling
-
-## 🎓 Why I Made This
-
-When my high school physics teacher taught our class about how Michelson managed to measure something as fast and intangible as light using just mirrors, gears, and patience, I was incredibly intrigued. Unusually, he didn't have a simlulation to help him teach this experiment like he usually did for relatively complicated experiments similar to it. In class, he mentioned he would like a simulation, but hadn't had the time to make one — so I made this for him. This project is my way of exploring the physics while also sharpening my creative coding skills, and paying forward to the new classes all the amazing ways my teacher inspired our class to love learning about the world around us.
+- **p5.js:** for canvas rendering and interactive visual elements
+- **JavaScript:** for simulation logic and DOM interaction
+- **Hosting:** GitHub Pages
 
 ## 📸 Preview
 
@@ -50,7 +39,18 @@ When my high school physics teacher taught our class about how Michelson managed
 
 ## 🌐 Live Site
 
-I host this simulation on GitHub's free GitHub-Pages service at: https://kitoleeson.github.io/Albert-Michelson-Mirror-Lab/
+This simulation is hosted on GitHub's free GitHub Pages service at: https://kitoleeson.github.io/Albert-Michelson-Mirror-Lab/
+
+## 📌 Future Additions
+
+Some features I’d like to build on in the future:
+1. 🎵 Add sound effects for firing and hitting mirrors
+2. 📏 Adjustable path length to simulate longer or shorter distances
+3. 💥 Improve collision detection when a particle hits multiple mirrors simultaneously (currently may result in jittery or teleporting behavior)
+
+## 🎓 Why I Made This
+
+When my high school physics teacher taught our class about how Michelson managed to measure something as fast and intangible as light using just mirrors, gears, and patience, I was incredibly intrigued. Unusually, he didn't have a simlulation to help him teach this experiment like he usually did for relatively complicated experiments similar to it. In class, he mentioned he would like a simulation, but hadn't had the time to make one — so I made this for him. This project is my way of exploring the physics while also sharpening my creative coding skills, and paying forward to the new classes all the amazing ways my teacher inspired our class to love learning about the world around us.
 
 ## 📖 License
 
